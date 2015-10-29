@@ -8,5 +8,5 @@ categories: [development]
 ---
 
 
-Hi welcome to my webside.
-Take a look in the [projects](projects/) sections to learn more about my work. To learn mor about me look into the [about](about/) section.
+Hi welcome to my website.
+Take a look in the [projects](projects/) sections to learn more about my work. To learn more about me take a look in the [about](about/) section.
