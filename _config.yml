@@ -11,16 +11,17 @@ logo:             images/logo.png
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'Projects'
+    url: '/projects'
+    type: 'projects'
   - title: 'About'
     url: '/about'
 #  - title: 'Tags'
 #    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Projects'
-    url: '/projects'
-    type: 'projects'
+#  - title: 'Categories'
+#    url: '/categories'
+#    type: 'categories'
+
 
 # Owner/author information
 owner:
