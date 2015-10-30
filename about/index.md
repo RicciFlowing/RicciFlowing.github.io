@@ -15,7 +15,7 @@ After school I followed another passion of mine and started studying mathematics
 So I visited lectures in Physics and Computer Science. In the end I got certified in nearly every lecture needed for an B.Sc. in Physics. But most fun got I out of the CS classes. I learned C, C++ and Java. C++ was used in applied mathematics classes to code many numerical algorithms (Newton-iteration, CG-Solver, ...) by ourself. And Java was the base for teaching data structures and algorithms (hashes, balanced trees, ...).
 
 After graduating I started a career as a teacher. As I love learning new things, it seemed to be an obvious fit. So I started training to become an educator. In parallel I looked into a new path of my programming hobby: web development.
-Finishing my qualification as a teacher, I began realizing, that teaching in school wasn't my way. Development as my long time hobby seemed to be worth a try. Since then I used Codeschool, Books, and many Youtube videos (tutorials, conference, talks) to educate my self.
+Finishing my qualification as a teacher, I began realizing, that teaching in school wasn't my way. Development as my long time hobby seemed to be worth a try. Since then I used [Codeschool](https://www.codeschool.com/users/983359), Books, and many Youtube videos (tutorials, conference, talks) to educate my self.
 
 Being a graduated mathematician helped along the way as CS and mathematics share the same tendency to abstract (ulitmatly precisely named) concepts (Prototypical Inheritance, Polymorphism, CORS, ...).
 
