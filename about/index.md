@@ -8,7 +8,7 @@ modified: 2015-10-26
 
 About me: Developer, Mathematician, Father & Husband
 
-Hi I am *Ricci* and this is my github-page. I am 27 years old and live in the Northeast of Germany. Programming is a passion of mine since I went to school. It started with a simple WYSIWYG-IDE and some Delphi code. The possibilities fascinated me.
+Hi I am *Ricci* and this is my github-page. I am 28 years old and live in the Northeast of Germany. Programming is a passion of mine since I went to school. It started with a simple WYSIWYG-IDE and some Delphi code. The possibilities fascinated me.
 
 After school I followed another passion of mine and started studying mathematics. It was wonderful opportunity to connect with many like minded people. On advantage of studying at the university of Hannover was that the students have been encouraged to take courses in related fields.
 
