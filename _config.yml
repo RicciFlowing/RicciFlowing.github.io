@@ -16,7 +16,7 @@ menu:
     type: 'projects'
   - title: 'Skills'
     url: '/skills'
-  - title: 'Favorite Gems'
+  - title: 'Favorite Tools'
     url: '/gems'
   - title: 'About'
     url: '/about'
