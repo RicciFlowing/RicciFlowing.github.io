@@ -14,6 +14,8 @@ menu:
   - title: 'Projects'
     url: '/projects'
     type: 'projects'
+  - title: 'Skills'
+    url: '/skills'
   - title: 'Favorite Gems'
     url: '/gems'
   - title: 'About'

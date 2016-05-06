@@ -463,7 +463,7 @@ ul.social-buttons li a:active {
 	min-height: 400px;
 	overflow: hidden;
 	//background-color: $header-color;
-	background-image: url('/images/meer_comp.jpg');
+	background-image: url('/images/desk.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -491,9 +491,13 @@ ul.social-buttons li a:active {
 		font-weight: 700;
 		margin-bottom: 20px;
 		@include font-rem(32);
-		color: $white;
+		color: $black;
 		text-shadow: 1px 1px 4px rgba($base-color, 0.6);
 		display: none;
+		@import url(https://fonts.googleapis.com/css?family=Lobster);
+		font-family: 'Lobster', cursive;
+		margin-bottom: 50px;
+		background-color: rgba(256, 256, 256, 0.6);
 		a {
 			color: $white;
 		}
@@ -501,10 +505,10 @@ ul.social-buttons li a:active {
 			display: block;
 		}
 		@media #{$medium} {
-			@include font-rem(26);
+			@include font-rem(40);
 		}
 		@media #{$large} {
-			@include font-rem(36);
+			@include font-rem(60);
 		}
 	}
 	h1.post-title{
