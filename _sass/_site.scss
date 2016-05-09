@@ -39,6 +39,12 @@
 		list-style-type: none;
 	}
 }
+
+.styled-list {
+	li {
+		list-style-type: disc;
+	}
+}
 .inline-list {
 	list-style: none;
 	margin-left: 0;
