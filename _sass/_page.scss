@@ -495,7 +495,6 @@ ul.social-buttons li a:active {
 		@include font-rem(32);
 		color: $black;
 		text-shadow: 1px 1px 4px rgba($base-color, 0.6);
-		display: none;
 		font-family: 'Lobster', cursive;
 		margin-bottom: 50px;
 		background-color: rgba(256, 256, 256, 0.6);
